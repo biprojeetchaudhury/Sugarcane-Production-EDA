@@ -7,3 +7,8 @@ This repository contains an Exploratory Data Analysis (EDA) project focused on s
   - Data cleaning
   - Descriptive statistics
   - Data visualization for trends and comparisons
+ 
+## Acknowledgments
+  Data sourced from publicly available datasets on sugarcane production.
+
+
